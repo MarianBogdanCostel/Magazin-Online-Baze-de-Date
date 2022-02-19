@@ -1,2 +1,4 @@
 # Magazin-Online-Baze-de-Date
-Gestionarea unui magazin online avand o baza de date
+Gestiunea unui magazin online avand o baza de date care contine utilizatorii si comenzile acestora. 
+-Back-end: SQL si Python
+-Front-end: Qt Designer (PyQt5)
